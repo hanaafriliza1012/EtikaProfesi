@@ -2,3 +2,4 @@ Drama Etika Profesi
 Script ini ditulis untuk memenuhi tugas mata kuliah Etika Profesi
 
 Plan 1 : Video berisi kompilasi tentang etika seorang programmer
+Plan 2 : Video berisi tentang etika saat melakukan pembelajaran online
